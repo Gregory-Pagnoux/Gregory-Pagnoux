@@ -21,7 +21,7 @@ Here are some ideas to get you started:
   <source
     srcset="https://github-readme-stats.vercel.app/api?username=Gregory-Pagnoux&show_icons=true&theme=dark"
     media="(prefers-color-scheme: dark)"
-    text_color:blue
+    text_color="blue"
   />
   <img src="https://github-readme-stats.vercel.app/api?username=Gregory-Pagnoux&show_icons=true" />
 </picture>
