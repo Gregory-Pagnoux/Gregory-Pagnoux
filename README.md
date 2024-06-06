@@ -56,5 +56,5 @@ wakatime
 
 <p align="center">
     <a href="https://github.com/Gregory-Pagnoux" target="_blank"><img alt="Grégory" src="https://badges.pufler.dev/visits/Gregory-Pagnoux/Gregory-Pagnoux?logo=GitHub&label=visits&color=success&logoColor=white&style=flat-square"/></a>
-    <a href="https://github.com/alwinw/Gregory-Pagnoux" target="_blank"><img alt="GitHub hits" src="https://img.shields.io/github/last-commit/Gregory-Pagnoux?label=profile%20updated&style=flat-square"></a>
+    <a href="https://github.com/alwinw/Gregory-Pagnoux" target="_blank"><img alt="GitHub hits" src="https://img.shields.io/github/last-commit/Gregory-Pagnoux/Gregory-Pagnoux?label=profile%20updated&style=flat-square"></a>
 </p>
