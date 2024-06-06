@@ -19,7 +19,7 @@ Feel free to contact me to exchange ideas, collaborate on projects, or simply di
 </a>
 
 <a href="https://github.com/GregoryPagnoux/convoychat">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Gregory-Pagnoux&layout=donut&langs_count=5&card_width=320&show_icons=true&theme=darl" />
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Gregory-Pagnoux&layout=donut&langs_count=5&card_width=320&show_icons=true&theme=dark" />
 </a>
 
 <a href="http://www.github.com/Gregory-Pagnoux"><img src="https://github-readme-streak-stats.herokuapp.com/?user=Gregory-Pagnoux&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
