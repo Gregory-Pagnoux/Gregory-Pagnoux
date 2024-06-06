@@ -22,7 +22,7 @@ Feel free to contact me to exchange ideas, collaborate on projects, or simply di
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=Gregory-Pagnoux&show_icons=true&theme=light" />
 </a>
 <a href="https://github.com/GregoryPagnoux/convoychat">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Gregory-Pagnoux&layout=donut&langs_count=8&card_width=320&show_icons=true&theme=darl" />
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Gregory-Pagnoux&layout=donut&langs_count=5&card_width=320&show_icons=true&theme=darl" />
 </a>
 
 [![Grégory's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=gregory_pagnoux)](https://github.com/Gregory-Pagnoux/github-readme-stats)
