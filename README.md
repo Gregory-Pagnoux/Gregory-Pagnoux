@@ -17,9 +17,14 @@ Feel free to contact me to exchange ideas, collaborate on projects, or simply di
 <a href="https://github.com/Gregory-Pagnoux/github-readme-stats">
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=Gregory-Pagnoux&show_icons=true&theme=light" />
 </a>
+
 <a href="https://github.com/GregoryPagnoux/convoychat">
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Gregory-Pagnoux&layout=donut&langs_count=5&card_width=320&show_icons=true&theme=darl" />
 </a>
+
+<a href="http://www.github.com/Gregory-Pagnoux"><img src="https://github-readme-streak-stats.herokuapp.com/?user=Gregory-Pagnoux&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
+
+<a href="http://www.github.com/Gregory-Pagnoux"><img src="https://github-readme-activity-graph.cyclic.app/graph?username=Gregory-Pagnoux&bg_color=1c1917&color=ffffff&line=0891b2&point=ffffff&area_color=1c1917&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
 
 [![Grégory's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=gregory_pagnoux)](https://github.com/Gregory-Pagnoux/github-readme-stats)
 
