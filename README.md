@@ -17,7 +17,7 @@ Feel free to contact me to exchange ideas, collaborate on projects, or simply di
 <!--
 mail
 -->
-[![Mail Badge](https://img.shields.io/badge/-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:gregory.pagnoux@algosup.com)](mailto:gregory.pagnoux@algosup.com)
+[![Mail Badge](https://img.shields.io/badge/?style=flat-square&logo=Gmail&logoColor=white&link=mailto:gregory.pagnoux@algosup.com)](mailto:gregory.pagnoux@algosup.com)
 
 <!--
 social media
