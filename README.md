@@ -28,4 +28,4 @@ Feel free to contact me to exchange ideas, collaborate on projects, or simply di
 
 [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Gregory-Pagnoux&layout=donut)](https://github.com/Gregory-Pagnoux/github-readme-stats)
 
-[![Grégory's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Gregory-Pagnoux)](https://github.com/gregory_pagnoux/github-readme-stats)
+[![Grégory's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=gregory_pagnoux)](https://github.com/Gregory-Pagnoux/github-readme-stats)
