@@ -25,3 +25,5 @@ Feel free to contact me to exchange ideas, collaborate on projects, or simply di
   />
   <img src="https://github-readme-stats.vercel.app/api?username=Gregory-Pagnoux&show_icons=true" />
 </picture>
+
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Gregory-Pagnoux)](https://github.com/Grégory-Pagnoux/github-readme-stats)
