@@ -20,13 +20,9 @@ social media
 <p align="left"> <a href="http://www.instagram.com/gregory.pgnx?igsh=MWhiNGc5MXNpZjV3OQ==" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="32" height="32" /> </picture> </a> <a href="https://www.linkedin.com/in/grégory-pagnoux-313b3a251/" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /> </picture> </a> </p>
 
 <!--
-followers
+followers and stars
 -->
 <a href="https://www.github.com/Gregory-Pagnoux" target="_blank" rel="noreferrer"><img src="https://img.shields.io/github/followers/Gregory-Pagnoux?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a>
-
-<!--
-stars
--->
 <a href="https://www.github.com/Gregory-Pagnoux" target="_blank" rel="noreferrer"><img src="https://img.shields.io/github/stars/Gregory-Pagnoux?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a>
 
 <!--
