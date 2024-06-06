@@ -15,7 +15,7 @@ I'm constantly looking for new opportunities to learn 🎓, create💡and share 
 Feel free to contact me to exchange ideas, collaborate on projects, or simply discuss our shared passions.
 
 <a href="https://github.com/Gregory-Pagnoux/github-readme-stats">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=Gregory-Pagnoux&show_icons=true&theme=light" />
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=Gregory-Pagnoux&show_icons=true&theme=dark" />
 </a>
 
 <a href="https://github.com/GregoryPagnoux/convoychat">
