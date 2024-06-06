@@ -18,18 +18,8 @@ I'm constantly looking for new opportunities to learn 🎓, create💡and share 
 
 Feel free to contact me to exchange ideas, collaborate on projects, or simply discuss our shared passions.
 
-<picture>
-  <source
-    srcset="https://github-readme-stats.vercel.app/api?username=Gregory-Pagnoux&show_icons=true&theme=dark"
-    media="(prefers-color-scheme: dark)"
-  />
-  <img src="https://github-readme-stats.vercel.app/api?username=Gregory-Pagnoux&show_icons=true" />
-</picture>
-
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Gregory-Pagnoux&layout=donut)](https://github.com/Gregory-Pagnoux/github-readme-stats)
-
 <a href="https://github.com/Gregory-Pagnoux/github-readme-stats">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=Gregory-Pagnoux&show_icons=true&theme=dark" />
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=Gregory-Pagnoux&show_icons=true&theme=light" />
 </a>
 <a href="https://github.com/GregoryPagnoux/convoychat">
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Gregory-Pagnoux&layout=donut&langs_count=8&card_width=320&show_icons=true&theme=darl" />
